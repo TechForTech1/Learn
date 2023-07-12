@@ -52,8 +52,8 @@ body :-ms-input-placeholder {
 .container {
     max-width: 200px;
     margin: 0 auto;
-    padding: 80px 0;
-    height: 400px;
+/*     padding: 80px 0; */
+/*     height: 400px; */
     text-align: center;
 }
 .container h1 {
@@ -296,10 +296,10 @@ body :-ms-input-placeholder {
 }
 
 .main{
-    margin: 170px 0 0 -250px;
+    margin: 100px 0 0 -250px;
     width: 724px;
-    height: 300px;
-    background: rgba(243, 243, 243, 0.75);
+    height: 550px;
+    background: #967bb642;
     border-radius: 25px;
 }
 .main p:nth-child(1) {
